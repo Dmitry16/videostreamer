@@ -1,4 +1,4 @@
 # videostreamer
 JavaScript + Node.js
 
-This project uses the native stream feature of Node.js in order to upload and process a video file. 
+This project uses the native stream module of Node.js in order to make use of stream interface when uploading and processing a video file.
